@@ -1,0 +1,10 @@
+thiA	P45359
+hbd	P52041
+crt	P52040
+bcd	P52042
+ptb	Q45828
+rnfA	D8GR70
+rnfB	D8GR71
+rnfC	D8GR66
+rnfD	D8GR67
+rnfE	D8GR69

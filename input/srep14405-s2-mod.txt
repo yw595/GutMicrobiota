@@ -1,0 +1,138 @@
+Position_tree	OTU_name	Taxonomy	Relative_abundance (%)					Trend *				P value_Mann-Whitney U test			
+			NCD	HFD	HFD+BBR200	HFD+BBR100	HFD+MET200	HFD+BBR200	HFD+BBR100	HFD+MET200	Kruskalwallis test	NCD vs HFD	HFD vs HFD+BBR200	HFD vs HFD+BBR100	HFD vs HFD+MET200
+1	U00000081	Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia/Shigella	0.05	0.05	14.88	1.61	0.28	up	up	up	2.81E-07	0.7721	0.0001	0.0003	0.9660
+2	U00237695	Proteobacteria; Betaproteobacteria; Burkholderiales; Sutterellaceae; Parasutterella	0.00	0.00	0.14	0.03	0.05	up	up	up	1.54E-06	NaN	0.0001	0.0060	0.0060
+3	U00000494	Proteobacteria; Betaproteobacteria; Burkholderiales; Sutterellaceae; Parasutterella	0.15	0.17	4.60	1.40	1.41	up	up	up	8.17E-07	0.9698	0.0002	0.0006	0.0036
+4	U00000407	Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter	1.64	0.25	0.00	0.00	0.29	down	down	up	1.93E-05	0.0139	0.0008	0.0008	0.6675
+5	U00000484	Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Bilophila	0.01	0.00	1.95	0.04	0.00	up	up	up	3.39E-07	0.3681	0.0001	0.0779	0.3681
+6	U00309840	Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Bilophila	0.00	0.00	0.25	0.01	0.00	up	up	same	2.58E-06	NaN	0.0008	0.1681	NaN
+7	U00436156	Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; 	0.89	1.00	0.03	0.45	2.77	down	down	up	2.51E-06	0.7337	0.0010	0.0376	0.0140
+8	U00000261	Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides	0.01	0.03	0.50	0.87	0.06	up	up	up	3.17E-05	0.2343	0.1460	0.0001	0.4426
+9	U00000006	Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides	0.10	0.83	7.72	5.54	1.69	up	up	up	5.07E-06	0.0115	0.0073	0.0028	0.0452
+10	U00000076	Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides	0.01	0.04	0.63	1.49	0.14	up	up	up	4.82E-06	0.5848	0.0435	0.0001	0.0097
+11	U00000002	Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides	0.05	0.09	0.40	2.24	0.43	up	up	up	7.25E-06	0.4238	0.3343	0.0002	0.0028
+12	U00797917	Bacteroidetes; Bacteroidia; Bacteroidales; Prevotellaceae; Prevotella	0.08	0.01	0.01	0.21	0.00	down	up	down	8.69E-05	0.4562	0.6704	0.0008	0.5842
+13	U00800841	Bacteroidetes; Bacteroidia; Bacteroidales; Prevotellaceae; Prevotella	0.01	0.10	0.00	0.00	0.28	down	down	up	1.12E-04	0.2440	0.0350	0.0350	0.0931
+14	U00797839	Bacteroidetes; Bacteroidia; Bacteroidales; Prevotellaceae; Prevotella	0.02	0.21	0.00	0.00	0.92	down	down	up	6.01E-05	0.1575	0.0060	0.0060	0.0718
+15	U00459850	Bacteroidetes; Bacteroidia; Bacteroidales; ; 	0.65	0.25	0.00	0.01	0.00	down	down	down	4.21E-08	0.0140	0.0008	0.0019	0.0008
+16	U00804685	Bacteroidetes; Bacteroidia; Bacteroidales; ; 	0.01	0.27	0.00	0.00	0.28	down	down	up	1.11E-06	0.0006	0.0002	0.0002	0.7333
+17	U00000964	Bacteroidetes; Bacteroidia; Bacteroidales; ; 	0.23	0.09	0.00	0.00	0.08	down	down	down	4.39E-06	0.0207	0.0060	0.0187	0.7869
+18	U00028067	Bacteroidetes; Bacteroidia; Bacteroidales; ; 	0.28	0.00	0.00	0.85	0.00	down	up	up	3.93E-08	0.0004	0.3681	0.0001	1.0000
+19	U00453840	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.30	0.00	0.00	0.41	0.00	same	up	up	5.56E-07	0.0008	NaN	0.0002	0.3681
+20	U00000650	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	1.02	2.52	0.01	0.01	0.95	down	down	down	1.34E-07	0.0452	0.0001	0.0001	0.0312
+21	U00026711	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.13	0.06	0.00	0.00	0.01	down	down	down	4.42E-06	0.0735	0.0060	0.0060	0.0296
+22	U00000839	Bacteroidetes; ; ; ; 	1.19	0.34	0.01	0.00	0.00	down	down	down	4.14E-08	0.0028	0.0025	0.0008	0.0008
+23	U00453387	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Barnesiella	0.00	0.00	0.00	0.15	0.01	down	up	up	5.05E-05	1.0000	0.3681	0.0014	0.2796
+24	U00001388	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Barnesiella	0.25	0.10	0.01	4.03	0.29	down	up	up	6.98E-06	0.1015	0.0063	0.0024	0.0045
+25	U00001491	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.58	0.27	0.00	0.00	0.46	down	down	up	1.37E-07	0.0452	0.0001	0.0001	0.1212
+26	U00000305	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.38	0.66	0.00	0.00	0.00	down	down	down	1.27E-06	0.9698	0.0014	0.0014	0.0008
+27	U00000886	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.52	0.27	0.00	0.00	0.51	down	down	up	6.97E-06	0.2729	0.0008	0.0025	0.3624
+28	U00030880	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Barnesiella	0.04	0.40	0.00	0.00	0.23	down	down	down	9.16E-08	0.0002	0.0001	0.0001	0.0757
+29	U00805811	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.48	0.74	0.01	0.00	0.16	down	down	down	2.42E-07	0.8501	0.0001	0.0001	0.0171
+30	U00000609	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	1.08	0.93	0.00	0.00	0.59	down	down	down	6.55E-07	0.7913	0.0004	0.0002	0.2897
+31	U00000497	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Barnesiella	0.99	0.49	0.00	0.00	0.01	down	down	down	1.53E-06	0.2116	0.0008	0.0014	0.0025
+32	U00000154	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.29	0.15	0.00	0.00	0.76	down	down	up	1.45E-06	0.2550	0.0063	0.0082	0.0072
+33	U00005346	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.59	0.45	0.01	0.94	0.07	down	up	down	1.09E-05	0.1211	0.0019	0.0448	0.0746
+34	U00001406	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.78	0.16	0.00	0.00	0.02	down	down	down	2.07E-07	0.0172	0.0008	0.0008	0.0385
+35	U00812452	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Barnesiella	0.00	0.54	0.00	0.00	1.19	down	down	up	1.69E-08	0.0001	0.0001	0.0001	0.1620
+36	U00000837	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.00	0.54	0.00	0.00	0.41	down	down	down	6.50E-07	0.0001	0.0001	0.0001	0.3440
+37	U00009763	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Barnesiella	1.14	1.77	0.00	0.00	2.44	down	down	up	3.15E-07	0.8501	0.0001	0.0001	0.4274
+38	U00462521	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.63	1.17	0.00	0.00	1.51	down	down	up	8.33E-08	0.4274	0.0001	0.0001	0.5708
+39	U00002709	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	1.38	1.79	0.01	0.01	0.01	down	down	down	1.53E-07	0.3847	0.0006	0.0004	0.0004
+40	U00006821	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Butyricimonas	0.90	0.38	0.00	0.00	0.19	down	down	down	5.46E-07	0.0211	0.0008	0.0014	0.3057
+41	U00000206	Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; 	0.45	0.27	0.01	0.00	0.02	down	down	down	3.42E-07	0.0639	0.0019	0.0008	0.0079
+42	U00000394	Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae; Alistipes	0.01	0.00	0.03	0.89	0.02	up	up	up	6.29E-07	0.1681	0.0779	0.0001	0.1681
+43	U00005559	Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae; Alistipes	0.24	0.10	0.00	0.01	0.06	down	down	down	4.96E-05	0.0423	0.0350	0.1236	1.0000
+44	U00801961	; ; ; ; 	0.48	0.20	0.00	0.00	0.00	down	down	down	5.27E-07	0.1390	0.0060	0.0147	0.0060
+45	U00000163	Fusobacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium	0.00	0.03	4.49	2.83	0.00	up	up	down	1.14E-08	1.0000	0.0001	0.0001	0.3681
+46	U00000475	Actinobacteria; Actinobacteria; Coriobacteriales; Coriobacteriaceae; 	0.01	0.06	0.06	0.04	0.37	down	down	up	1.76E-04	0.1008	0.9356	1.0000	0.0069
+47	U00002212	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Roseburia	0.15	0.56	0.03	0.25	0.52	down	down	down	4.85E-05	0.0168	0.0004	0.0640	0.9097
+48	U00000207	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; 	0.91	0.87	0.01	0.78	2.65	down	down	up	6.11E-06	0.7337	0.0001	0.0257	0.1212
+49	U00003193	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Blautia	0.16	2.68	6.23	5.49	2.95	up	up	up	4.34E-06	0.0022	0.0036	0.0091	0.1212
+50	U00001239	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.51	0.24	0.01	0.14	0.06	down	down	down	3.74E-05	0.0257	0.0025	0.4256	0.0695
+51	U00008680	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.01	0.72	0.00	0.02	0.00	down	down	down	7.92E-05	0.0063	0.0008	0.0033	0.0014
+52	U00000020	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.00	0.00	0.41	0.09	0.00	up	up	up	3.72E-06	0.3681	0.0002	0.0022	0.3681
+53	U00000396	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.35	0.32	0.00	0.00	0.51	down	down	up	2.19E-06	0.9698	0.0002	0.0002	0.9096
+54	U00026273	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.01	0.56	0.00	0.00	0.00	down	down	down	2.13E-07	0.0008	0.0002	0.0002	0.0002
+55	U00029306	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Anaerostipes	0.94	0.01	0.00	0.00	0.00	down	down	down	3.90E-09	0.0001	0.3681	0.3681	0.3681
+56	U00000691	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; 	0.53	0.09	0.00	0.06	0.00	down	down	down	2.49E-06	0.0016	0.0149	0.8717	0.0503
+57	U00463956	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Ruminococcus	0.15	0.01	0.00	0.00	0.00	down	down	down	5.38E-06	0.0025	0.3681	0.3681	1.0000
+58	U00804005	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.05	0.23	0.00	0.00	0.00	down	down	down	9.94E-06	0.0695	0.0008	0.0008	0.0008
+59	U00438597	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.06	0.24	0.00	0.00	0.03	down	down	down	3.95E-06	0.0036	0.0002	0.0004	0.0023
+60	U01142112	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.11	0.00	0.00	0.00	0.00	down	up	down	4.83E-05	0.0049	0.3681	1.0000	0.3681
+61	U00164605	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.34	0.00	0.00	0.00	0.00	up	same	same	1.14E-06	0.0008	0.3681	NaN	NaN
+62	U00025753	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Moryella	0.04	0.12	0.00	0.00	0.38	down	down	up	2.97E-06	0.0460	0.0060	0.0187	0.0306
+63	U00000012	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.29	0.03	0.00	0.00	0.01	down	down	down	2.33E-04	0.0317	0.0350	0.1012	0.2083
+64	U00013476	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.40	1.64	0.00	0.01	0.21	down	down	down	7.26E-07	0.0073	0.0001	0.0001	0.0013
+65	U00808065	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.17	0.04	0.00	0.00	0.00	down	down	down	4.38E-06	0.0155	0.0779	0.2343	0.0779
+66	U00000879	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Clostridium XlVa	1.62	0.82	0.03	0.92	0.55	down	up	down	5.42E-06	0.0140	0.0001	0.8501	0.0452
+67	U00002256	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; 	0.21	0.04	0.00	0.00	0.00	down	down	down	9.27E-06	0.0213	0.1681	0.1681	0.1681
+68	U00001450	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Lachnospiracea_incertae_sedis	0.03	0.00	0.17	0.02	0.01	up	up	up	5.94E-05	0.0779	0.0002	0.0149	0.0779
+69	U00002066	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Moryella	0.30	0.30	0.00	0.06	0.43	down	down	up	2.48E-05	0.8501	0.0004	0.0092	0.2897
+70	U00453464	Firmicutes; ; ; ; 	0.17	0.00	0.00	0.00	0.00	down	down	down	1.15E-07	0.0009	0.3681	0.3681	0.3681
+71	U00042653	; ; ; ; 	0.27	0.00	0.00	0.00	0.01	same	same	up	4.77E-09	0.0001	NaN	NaN	0.3681
+72	U00164256	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Clostridium XlVb	0.23	0.20	0.00	0.00	0.00	down	down	down	1.64E-08	0.6776	0.0002	0.0002	0.0002
+73	U01130390	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Clostridium XlVb	0.00	0.25	0.00	0.00	0.00	down	down	down	1.83E-07	0.0008	0.0008	0.0008	0.0008
+74	U00000550	; ; ; ; 	0.00	0.00	0.34	0.67	0.00	up	up	same	5.41E-09	0.3681	0.0001	0.0001	NaN
+75	U00001166	Firmicutes; Clostridia; Clostridiales; ; 	0.06	0.00	0.00	0.00	0.00	same	same	same	1.83E-07	0.0008	NaN	NaN	NaN
+76	U00164359	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Clostridium IV	0.00	0.00	0.59	0.01	0.00	up	up	same	1.81E-07	NaN	0.0002	0.1681	NaN
+77	U00008098	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Flavonifractor	0.43	0.64	0.00	0.01	0.42	down	down	down	4.51E-07	0.6232	0.0002	0.0004	0.3847
+78	U00022935	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Clostridium XlVb	0.00	0.00	0.03	0.52	0.26	up	up	up	2.16E-07	0.3681	0.1681	0.0001	0.0002
+79	U00000981	Firmicutes; Clostridia; Clostridiales; ; 	0.32	0.31	0.00	0.11	0.16	down	down	down	2.18E-04	0.6776	0.0002	0.1455	0.3068
+80	U00439707	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; 	0.36	0.05	0.01	0.00	0.00	down	down	down	1.10E-03	0.0357	0.4562	0.2343	0.0779
+81	U00003481	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Ruminococcus	1.08	0.16	0.02	0.00	0.07	down	down	down	4.48E-05	0.0054	0.1722	0.0403	0.6280
+82	U00002723	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; 	0.24	0.02	0.00	0.01	0.00	down	down	down	4.34E-06	0.0016	1.0000	0.6704	0.3681
+83	U00000406	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Oscillibacter	1.15	2.20	0.01	1.45	0.90	down	down	down	1.11E-05	0.0452	0.0001	0.2123	0.0113
+84	U00000983	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Oscillibacter	0.26	0.26	0.00	0.22	0.10	down	down	down	2.12E-04	0.9698	0.0001	0.4725	0.0630
+85	U00000594	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Oscillibacter	1.21	1.42	0.01	0.69	1.52	down	down	up	2.51E-05	0.7913	0.0001	0.0312	0.9698
+86	U00132882	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Oscillibacter	0.41	0.09	0.00	0.00	0.02	down	down	down	7.79E-07	0.0027	0.0147	0.0060	0.1066
+87	U00000595	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; 	0.64	0.08	0.00	0.01	0.02	down	down	down	9.20E-06	0.0048	0.0779	0.5184	0.4318
+88	U00005444	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Flavonifractor	0.13	0.66	0.00	0.16	0.40	down	down	down	1.84E-05	0.0209	0.0002	0.0255	0.4727
+89	U00011957	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Flavonifractor	0.56	0.83	0.00	0.32	0.18	down	down	down	1.06E-05	0.2123	0.0002	0.0493	0.0021
+90	U00799453	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Flavonifractor	0.38	0.53	0.00	0.00	0.03	down	down	down	6.97E-07	0.4055	0.0002	0.0002	0.0029
+91	U00164428	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; 	0.15	0.23	0.00	0.02	0.50	down	down	up	2.09E-06	0.7333	0.0002	0.0023	0.0820
+92	U00000707	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; 	1.57	0.28	0.00	0.02	0.08	down	down	down	4.91E-06	0.0026	0.0503	0.0766	0.3701
+93	U00033878	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Flavonifractor	0.08	0.39	0.00	0.02	0.04	down	down	down	7.85E-05	0.0187	0.0002	0.0014	0.0046
+94	U00000792	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Flavonifractor	0.22	0.35	0.00	0.08	0.24	down	down	down	5.72E-05	0.3256	0.0002	0.0124	0.5708
+95	U00003505	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Flavonifractor	0.56	1.62	0.00	0.14	0.53	down	down	down	2.37E-07	0.0113	0.0001	0.0003	0.0058
+96	U00208153	Firmicutes; Clostridia; Clostridiales; Eubacteriaceae; Eubacterium	0.30	0.02	0.00	0.00	0.01	down	down	down	3.91E-06	0.0017	0.1681	0.1681	0.6548
+97	U00030870	Firmicutes; Clostridia; Clostridiales; ; 	0.17	0.06	0.00	0.00	0.00	down	down	down	1.55E-05	0.0665	0.0350	0.0350	0.0350
+98	U00000331	Bacteroidetes; ; ; ; 	0.80	0.62	0.00	0.00	0.71	down	down	up	6.63E-07	0.9698	0.0002	0.0002	0.5452
+99	U00007276	; ; ; ; 	0.30	0.35	0.00	0.00	0.00	down	down	down	5.19E-08	0.0211	0.0008	0.0008	0.0025
+100	U00034351	Firmicutes; Clostridia; Clostridiales; ; 	0.32	0.01	0.00	0.00	0.03	down	down	up	9.99E-06	0.0014	0.3681	0.3681	0.0460
+101	U00002201	; ; ; ; 	0.29	0.03	0.00	0.00	0.02	down	down	down	6.79E-07	0.0003	0.5036	0.1681	0.8038
+102	U00001891	Firmicutes; Clostridia; Clostridiales; ; 	0.12	0.01	0.00	0.00	0.00	down	down	down	6.34E-06	0.0033	0.3681	0.3681	1.0000
+103	U00803665	Firmicutes; Clostridia; Clostridiales; ; 	0.15	0.00	0.00	0.00	0.01	same	same	up	3.48E-06	0.0008	NaN	NaN	0.1681
+104	U00027111	Firmicutes; ; ; ; 	0.36	0.21	0.00	0.00	0.10	down	down	down	1.40E-05	0.0620	0.0149	0.0149	0.8085
+105	U00004249	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Clostridium XlVa	2.70	0.83	0.00	0.01	0.01	down	down	down	4.95E-08	0.0022	0.0002	0.0006	0.0008
+106	U00022573	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.02	0.07	0.03	0.01	0.29	down	down	up	1.12E-04	0.7096	0.8361	0.3517	0.0073
+107	U00000499	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.09	0.28	0.04	0.10	1.26	down	down	up	6.05E-05	0.4821	0.1378	1.0000	0.0028
+108	U00001116	Firmicutes; ; ; ; 	0.73	0.87	0.01	0.00	0.10	down	down	down	1.70E-07	0.9698	0.0001	0.0001	0.0025
+109	U00000272	; ; ; ; 	0.67	0.64	0.00	0.01	1.28	down	down	up	3.39E-07	0.6776	0.0004	0.0004	0.1212
+110	U00003420	Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Dorea	0.00	0.02	0.78	0.43	0.00	up	up	down	5.64E-08	0.3681	0.0003	0.0007	0.3681
+111	U00006205	Firmicutes; Clostridia; Clostridiales; Peptostreptococcaceae; Clostridium XI	0.00	0.00	0.73	0.12	0.00	up	up	up	1.02E-07	NaN	0.0001	0.0149	0.3681
+112	U00000133	Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus	1.62	0.02	0.00	0.08	0.00	down	up	down	2.34E-07	0.0001	0.3681	0.5842	1.0000
+113	U01160251	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.00	0.00	0.39	0.35	0.01	up	up	up	3.35E-08	1.0000	0.0001	0.0001	0.2343
+114	U00804007	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.02	0.04	1.59	1.19	0.06	up	up	up	9.33E-08	0.2675	0.0002	0.0002	0.1530
+115	U00808391	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.00	0.03	0.69	0.55	0.03	up	up	up	3.94E-08	0.0779	0.0001	0.0002	0.1963
+116	U01154512	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.00	0.01	0.25	0.21	0.02	up	up	up	1.05E-07	1.0000	0.0001	0.0001	0.1799
+117	U00011248	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.03	0.13	2.07	1.07	0.07	up	up	down	2.67E-07	0.5182	0.0002	0.0005	0.5918
+118	U00043735	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.00	0.05	0.45	0.69	0.03	up	up	down	1.05E-06	0.0403	0.0036	0.0004	0.6280
+119	U00000409	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.15	0.55	8.70	4.64	0.24	up	up	down	7.02E-08	0.0187	0.0002	0.0002	0.0820
+120	U00007185	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.01	0.04	0.63	0.39	0.05	up	up	up	9.03E-08	0.0934	0.0002	0.0002	0.9054
+121	U00003325	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.00	0.04	0.02	0.00	0.18	down	down	up	7.00E-05	0.2343	0.5848	0.2343	0.0049
+122	U00000022	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.03	0.14	0.04	0.04	1.32	down	down	up	7.61E-06	0.0194	0.0718	0.0620	0.0002
+123	U00305232	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Allobaculum	0.02	0.06	1.39	1.07	0.08	up	up	up	7.42E-08	0.3760	0.0001	0.0001	0.1485
+124	U00000607	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; 	0.03	0.23	1.14	0.24	1.07	up	up	up	1.58E-06	0.0433	0.0022	0.5702	0.0045
+125	U00785606	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Erysipelotrichaceae_incertae_sedis	0.00	0.00	0.13	0.04	0.00	up	up	same	1.19E-05	NaN	0.0008	0.0350	NaN
+126	U00001267	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Erysipelotrichaceae_incertae_sedis	0.00	0.00	1.18	0.15	0.00	up	up	same	1.02E-08	NaN	0.0001	0.0008	NaN
+127	U00003073	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Holdemania	0.00	0.00	0.30	0.27	0.01	up	up	up	1.38E-08	NaN	0.0001	0.0001	0.1681
+128	U00000999	; ; ; ; 	0.52	0.10	0.00	0.00	0.10	down	down	down	2.48E-06	0.0032	0.0350	0.0350	0.9012
+129	U00001039	Firmicutes; Erysipelotrichia; Erysipelotrichales; Erysipelotrichaceae; Clostridium XVIII	0.02	0.00	1.76	0.85	0.00	up	up	same	6.48E-09	0.3681	0.0001	0.0001	NaN
+130	U01123199	Firmicutes; Negativicutes; Selenomonadales; Veillonellaceae; 	0.30	0.49	0.00	0.00	0.00	down	down	down	1.52E-07	0.3073	0.0008	0.0008	0.0014
+131	U00000374	Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Butyricicoccus	0.00	0.01	0.40	0.53	0.15	up	up	up	2.08E-07	0.1681	0.0008	0.0001	0.0004
+132	U00424554	Firmicutes; Negativicutes; Selenomonadales; Acidaminococcaceae; Phascolarctobacterium	0.00	0.00	0.00	0.17	0.00	same	up	up	1.19E-05	NaN	NaN	0.0022	0.3681
+133	U00000235	Firmicutes; Negativicutes; Selenomonadales; Acidaminococcaceae; Phascolarctobacterium	0.01	0.06	4.75	2.64	3.69	up	up	up	5.68E-08	0.6704	0.0001	0.0001	0.0001
+134	U00000737	TM7; TM7_genera_incertae_sedis; TM7_genera_incertae_sedis; TM7_genera_incertae_sedis; TM7_genera_incertae_sedis	0.27	0.02	0.00	0.00	0.01	down	down	down	2.98E-04	0.0239	0.0350	0.0350	0.2838
+															
+		* compared with HFD group; bold red indicates those OTUs which were decreased by all three treatments. 													

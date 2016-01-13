@@ -1,0 +1,347 @@
+Rank	Feature name	p-value	q-value	Direction	FeatureSum (%)	T2D metformin+ vs T2D metformin- q-value	ND CTRL vs T2D metformin- q-value	Superkingdom	Phylum	Class	Order	Family	Genus	Species
+8	Cluster1603	7.14E-06	0.000308831	NoDiab > Metf = DT2	0.133027109	0.20836082	2.38E-05	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	unnamed butyrate-producing bacterium SS3_4
+14	Cluster1447	8.89E-05	0.002183421	Metf = NoDiab>>>DT2	0.045795977	0.201355174	6.68E-05	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus amylovorus
+9	Cluster1631	1.00E-05	0.00038528	NoDiab>>>DT2 = Metf	0.547281672	0.4182656	0.000660367	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia intestinalis
+11	Cluster1393	4.27E-05	0.001341759	Metf>>>NoDiab>>>DT2	0.00770698	0.574336326	0.000844742	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus
+28	motu_linkage_group_295	0.001805827	0.021795764	Metf = NoDiab>> DT2	0.153040028	0.156494307	0.00160996	Bacteria	?	?	?	?	?	?
+6	motu_linkage_group_490	2.10E-06	1.21E-04	NoDiab>>>Metf = DT2	0.358680685	0.210844324	0.005608247	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus	?
+18	motu_linkage_group_190	0.00020476	0.003935938	NoDiab>> DT2 = Metf	0.229009741	0.507054334	0.007282612	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	?
+4	motu_linkage_group_348	2.70E-09	2.33E-07	DT2>> NoDiab>>>Metf	0.145017604	0.041025681	0.00760477	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+23	motu_linkage_group_646	0.000664699	0.009668017	NoDiab > Metf = DT2	0.07492571	0.609965182	0.009638487	Bacteria	Firmicutes	Clostridia	Clostridiales	bp_Clostridiales	bp_Clostridiales	butyrate-producing bacterium SS3_4
+24	Cluster1278	0.000670614	0.009668017	DT2 = Metf > NoDiab	0.018463654	0.404955825	0.010126258	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	unnamed Clostridium sp. HGF2
+75	Cluster1087	0.025714504	0.118629579	Metf = NoDiab > DT2	0.059520034	0.633414513	0.010727883	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	Paraprevotella xylaniphila
+41	Cluster1632	0.005259744	0.044387111	NoDiab = Metf = DT2	0.695216443	0.734129661	0.011011266	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia inulinivorans
+12	motu_linkage_group_246	4.99E-05	0.001438751	DT2 = Metf>>>NoDiab	0.388493592	0.812353042	0.011575669	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+48	Cluster1599	0.007047984	0.050804217	DT2 = Metf = NoDiab	0.009445891	0.578459787	0.011959571	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	unnamed Clostridiales bacterium 1_7_47FAA
+15	Cluster1595	9.47E-05	0.002183421	NoDiab>> Metf = DT2	0.793008563	0.316862666	1.35E-02	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	butyrate-producing bacterium
+57	Cluster1269	0.012997048	0.077545973	Metf = NoDiab > DT2	0.038453277	0.426232355	0.013898036	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus	Clostridium ramosum
+42	Cluster1575	0.006164821	0.048964783	NoDiab = Metf = DT2	0.976375217	0.625463203	0.016859482	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii
+77	Cluster1467	0.027930823	0.124920694	Metf = NoDiab > DT2	0.035950087	0.53763081	0.021052587	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus salivarius
+7	motu_linkage_group_145	6.81E-06	0.000308831	Metf>>>NoDiab > DT2	0.090482897	0.02143718	2.14E-02	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+19	motu_linkage_group_443	0.000422687	0.007697358	NoDiab>> Metf = DT2	0.219866007	0.722911253	0.022740852	Bacteria	Firmicutes	Clostridia	?	?	?	?
+27	Cluster1088	0.001630046	0.020888737	Metf = DT2 > NoDiab	0.961541929	0.701627992	0.023156879	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides distasonis
+51	Cluster326	0.010353908	0.070244159	NoDiab > DT2 = Metf	0.055555069	0.887066954	0.023606139	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus parainfluenzae
+74	Cluster1604	0.023505034	0.109901916	Metf = NoDiab > DT2	0.170833968	0.194098826	0.02594439	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea formicigenerans
+31	motu_linkage_group_574	0.00214695	0.023962733	DT2 > NoDiab > Metf	0.021444496	0.587822881	0.027123768	Bacteria	?	?	?	?	?	?
+55	motu_linkage_group_450	0.012441639	0.077545973	Metf = NoDiab > DT2	0.139522011	0.303953094	0.027269937	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+2	Cluster1533	6.89E-13	1.19E-10	DT2 > NoDiab>>>Metf	0.060588022	1.03E-07	0.031629724	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	?	[Clostridium] bartlettii
+65	motu_linkage_group_394	0.017290812	0.092040322	Metf = NoDiab > DT2	0.405861303	0.09747338	0.033429442	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+17	motu_linkage_group_244	0.000203511	0.003935938	DT2 > NoDiab>>>Metf	0.150515786	0.539730588	0.034988888	Bacteria	Firmicutes	?	?	?	?	?
+36	motu_linkage_group_274	0.00352413	0.033196062	NoDiab > Metf = DT2	0.375329328	0.64344089	0.035586196	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+53	motu_linkage_group_550	0.011818156	0.077142527	Metf>= NoDiab > DT2	0.197445843	0.91412594	0.036184638	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+5	motu_linkage_group_290	1.49E-06	1.03E-04	NoDiab > DT2 > Metf	0.533286693	0.03764635	0.03764635	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	?
+60	motu_linkage_group_611	0.013696988	0.078985966	NoDiab>= Metf = DT2	0.178276064	0.832539009	0.038958845	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii
+10	Cluster1598	3.48E-05	0.001204293	Metf = DT2 > NoDiab	0.103019897	0.343437371	0.039257831	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium bolteae
+116	Cluster1610	0.07137951	0.212907849	Metf = NoDiab > DT2	0.351104507	0.191454183	0.042513249	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	[Ruminococcus] torques
+70	motu_linkage_group_566	0.020923918	0.1021917	Metf = NoDiab > DT2	0.040995811	0.187760684	0.043208683	Bacteria	Firmicutes	?	?	?	?	?
+101	Cluster1273	0.05335311	0.182774019	Metf = NoDiab > DT2	0.001993095	0.528980902	0.043561456	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Solobacterium	Solobacterium moorei
+22	motu_linkage_group_457	0.000653437	0.009668017	DT2 > NoDiab>> Metf	0.039003578	0.046624373	0.046624373	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+93	motu_linkage_group_437	0.045194545	0.168143148	Metf = NoDiab > DT2	0.095527239	0.367282035	0.047493531	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	?	?
+58	motu_linkage_group_233	0.012999036	0.077545973	DT2 > NoDiab > Metf	0.187267253	0.990864875	0.048475348	Bacteria	?	?	?	?	?	?
+89	motu_linkage_group_481	0.042052869	0.161760914	Metf = NoDiab > DT2	0.025663473	0.049675701	0.049675701	Bacteria	Firmicutes	?	?	?	?	?
+21	motu_linkage_group_115	0.000524988	0.008649799	NoDiab>= DT2 = Metf	0.884908369	0.197511729	0.050319245	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+102	Cluster969	0.05435276	0.184373086	Metf = NoDiab>= DT2	0.080288431	0.628729629	0.053042567	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium breve
+76	Cluster1600	0.026070196	0.118687997	DT2 = Metf = NoDiab	0.030725762	0.192040264	0.055891892	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium symbiosum
+96	motu_linkage_group_127	0.048759255	0.175736482	NoDiab = Metf = DT2	1.315159462	0.653400895	0.059080696	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum	Subdoligranulum variabile
+50	Cluster1260	0.010347291	0.070244159	Metf>= NoDiab>= DT2	0.023629998	0.888433617	0.070687375	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella	Veillonella atypica
+107	Cluster1577	0.062930219	0.201703059	NoDiab = Metf = DT2	1.240930558	0.594840553	0.073711663	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii
+73	Cluster1271	0.023241008	0.109901916	Metf>= NoDiab>= DT2	0.024358729	0.726311702	0.079214277	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus	unnamed Coprobacillus sp. 29_1
+84	motu_linkage_group_696	0.037939669	0.156275305	DT2>= Metf = NoDiab	0.017418444	0.080340832	0.080340832	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+40	motu_linkage_group_625	0.005139032	0.044387111	Metf > NoDiab>= DT2	0.050152487	0.93591156	0.086358217	Bacteria	Firmicutes	?	?	?	?	?
+118	motu_linkage_group_121	0.074803274	0.219338414	Metf = NoDiab>= DT2	0.156381871	0.094173862	0.094173862	Bacteria	Firmicutes	?	?	?	?	?
+37	motu_linkage_group_70	0.003549868	0.033196062	Metf>> NoDiab>= DT2	0.238483586	0.36643604	0.09970157	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Dialister	Dialister invisus
+86	Cluster1653	0.03946808	0.156750557	Metf = NoDiab = DT2	0.04544326	0.050816262	0.106540426	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Mitsuokella	Mitsuokella multacida
+90	motu_linkage_group_470	0.042497991	0.161760914	NoDiab = DT2 = Metf	0.107064068	0.624328334	0.110861281	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+61	Cluster1578	0.014221784	0.080667823	Metf > NoDiab = DT2	0.004249693	0.586904942	0.1174365	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum	Subdoligranulum variabile
+46	motu_linkage_group_260	0.006509769	0.048964783	NoDiab = DT2 = Metf	0.74139154	0.120421191	0.120421191	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+95	Cluster1008	0.047341226	0.172421727	Metf = DT2 = NoDiab	0.572520814	0.722220909	0.124524206	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Akkermansia	Akkermansia muciniphila
+112	motu_linkage_group_771	0.06690444	0.206083786	DT2 = Metf = NoDiab	0.064771797	0.129235207	0.129235207	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+88	motu_linkage_group_391	0.039867194	0.156750557	Metf = NoDiab = DT2	0.716408308	0.506733513	0.130992491	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum	Subdoligranulum variabile
+127	motu_linkage_group_104	0.096277442	0.262299172	NoDiab = Metf = DT2	1.377755938	0.912490387	0.137106012	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+94	Cluster1626	0.047178761	0.172421727	Metf = NoDiab = DT2	0.045683985	0.053054972	0.138531843	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	[Bacteroides] pectinophilus
+153	motu_linkage_group_270	0.154099384	0.348486189	Metf = NoDiab = DT2	0.085256846	0.697949081	0.139849505	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	?
+105	motu_linkage_group_74	0.060583718	0.199637776	Metf = NoDiab = DT2	0.072536757	0.170863576	0.143801579	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+109	motu_linkage_group_65	0.065859419	0.206083786	Metf = NoDiab = DT2	0.189725749	0.139176181	0.143873612	Bacteria	?	?	?	?	?	?
+38	Cluster955	0.004346747	0.039578279	Metf > NoDiab = DT2	0.003977735	0.009645893	0.155861519	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Rothia	Rothia mucilaginosa
+164	Cluster1611	0.177545962	0.374578677	DT2 = Metf = NoDiab	0.281227626	0.611137092	0.16613077	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	[Ruminococcus] gnavus
+67	motu_linkage_group_624	0.018189646	0.093934589	Metf>= NoDiab = DT2	0.103460103	0.795027202	0.167396458	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+69	motu_linkage_group_113	0.019409921	0.097330906	Metf > NoDiab = DT2	0.129495276	0.039043913	0.16838433	Bacteria	?	?	?	?	?	?
+92	motu_linkage_group_734	0.043011573	0.161760914	Metf>= NoDiab = DT2	0.113196934	0.035453354	0.171423342	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+52	Cluster1263	0.01147335	0.076341908	Metf > NoDiab = DT2	0.020147345	0.175860723	0.175860723	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella	unnamed Veillonella sp. oral taxon 158
+20	motu_linkage_group_486	0.000485503	0.008399209	DT2 = NoDiab>>>Metf	0.081044771	0.418185181	0.177376122	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+139	motu_linkage_group_325	0.124115847	0.30858543	NoDiab = Metf = DT2	0.8708844	0.828550887	0.179621107	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+114	motu_linkage_group_126	0.068562343	0.208092725	NoDiab = Metf = DT2	0.788270864	0.219486573	0.181936735	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+121	motu_linkage_group_151	0.080555294	0.230348195	DT2 = NoDiab = Metf	0.263862159	0.822457667	0.185651752	Bacteria	Firmicutes	?	?	?	?	?
+159	Cluster1616	0.166037774	0.359490471	NoDiab = Metf = DT2	0.314183412	0.474446385	0.187127601	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus comes
+99	motu_linkage_group_604	0.051881874	0.180763898	Metf = NoDiab = DT2	0.018368745	0.368731535	0.188348121	Bacteria	Firmicutes	?	?	?	?	?
+110	Cluster1485	0.066042864	0.206083786	Metf = NoDiab = DT2	0.090462707	0.311864254	0.194655906	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium mortiferum
+137	Cluster1105	0.117771385	0.29743722	Metf = NoDiab = DT2	1.225316944	0.709924844	0.199291746	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides plebeius
+144	Cluster1596	0.133521126	0.320821594	Metf = NoDiab = DT2	0.007727342	0.919688579	0.201404604	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes	Anaerostipes caccae
+108	Cluster1621	0.062959336	0.201703059	Metf>= NoDiab = DT2	0.380746578	0.073598425	0.203740104	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	unnamed Ruminococcus sp. SR1_5
+87	motu_linkage_group_238	0.039699524	0.156750557	NoDiab = DT2 = Metf	0.262513584	0.204005885	0.204005885	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+54	motu_linkage_group_131	0.012039585	0.077142527	Metf > NoDiab = DT2	0.644037383	0.065971611	0.210446869	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp. HGB5
+163	motu_linkage_group_161	0.174740587	0.370921736	Metf = NoDiab = DT2	0.100138623	0.690576222	0.21271445	?	?	?	?	?	?	?
+103	Cluster1369	0.056097714	0.188444747	Metf = NoDiab = DT2	0.016040361	0.757671902	0.213962278	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis
+16	Cluster1624	0.000142277	0.003076737	Metf>>>NoDiab = DT2	0.024199972	0.392618913	0.215485949	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	unnamed Lachnospiraceae bacterium 3_1_57FAA_CT1
+143	motu_linkage_group_26	0.131690146	0.318634898	Metf = NoDiab = DT2	0.035745946	0.217345295	0.217345295	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+147	motu_linkage_group_529	0.137083882	0.322660021	Metf = NoDiab = DT2	0.036989603	0.953166308	0.218478458	Bacteria	Firmicutes	?	?	?	?	?
+136	motu_linkage_group_134	0.117350521	0.29743722	Metf = NoDiab = DT2	0.765793582	0.93075676	0.221828999	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+126	motu_linkage_group_333	0.089988675	0.247111758	Metf = DT2 = NoDiab	0.597817247	0.616245602	0.225188774	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+149	Cluster878	0.143184073	0.332494558	Metf = NoDiab = DT2	0.005263842	0.34655011	0.230257141	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces odontolyticus
+91	motu_linkage_group_565	0.042577703	0.161760914	Metf>= NoDiab = DT2	0.032705915	0.583100667	0.24312515	Bacteria	Firmicutes	?	?	?	?	?
+29	motu_linkage_group_177	0.001855509	0.021795764	Metf>> NoDiab = DT2	0.09497504	0.00300644	0.247635295	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+157	motu_linkage_group_206	0.159239598	0.350935675	NoDiab = Metf = DT2	0.859500461	0.809546283	0.24803962	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+160	motu_linkage_group_241	0.166238368	0.359490471	NoDiab = Metf = DT2	0.381303264	0.433669924	0.252250017	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii
+44	motu_linkage_group_434	0.006265333	0.048964783	Metf>> NoDiab = DT2	0.039614794	0.256453394	0.256453394	Bacteria	Firmicutes	?	?	?	?	?
+59	motu_linkage_group_586	0.013241689	0.077654652	Metf > NoDiab = DT2	0.066390949	0.990892356	0.282439861	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	?
+146	Cluster1106	0.135409961	0.320903059	Metf = NoDiab = DT2	0.239284448	0.426201256	0.283839607	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides coprophilus
+78	Cluster1657	0.028161312	0.124920694	Metf > NoDiab = DT2	0.075335719	0.283888742	0.283888742	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Acidaminococcus	Acidaminococcus intestini
+168	Cluster1420	0.191029714	0.393430243	Metf = NoDiab = DT2	0.007794296	0.478099207	0.294808647	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus australis
+135	motu_linkage_group_691	0.115706363	0.296551124	NoDiab = DT2 = Metf	0.035653625	0.501167766	0.297165561	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+30	motu_linkage_group_302	0.001889806	0.021795764	Metf>> NoDiab = DT2	0.091160894	0.087630017	0.309211708	Bacteria	Firmicutes	?	?	?	?	?
+98	motu_linkage_group_504	0.05022559	0.177327082	DT2 = NoDiab>= Metf	0.056532462	0.066309105	0.318488907	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+169	motu_linkage_group_375	0.199044765	0.407511768	Metf = NoDiab = DT2	0.028393927	0.891222315	0.320015455	Bacteria	Firmicutes	?	?	?	?	?
+45	Cluster756	0.006401456	0.048964783	Metf>> NoDiab = DT2	0.13601192	0.323532551	0.323532551	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila wadsworthia
+79	motu_linkage_group_209	0.029574741	0.129529876	Metf > NoDiab = DT2	0.098623871	0.074797711	0.328378042	Bacteria	Firmicutes	?	?	?	?	?
+39	Cluster1592	0.004882665	0.043318003	DT2 = NoDiab>> Metf	0.53428255	0.251873683	0.33005153	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus eutactus
+167	motu_linkage_group_559	0.184319116	0.381882719	Metf = NoDiab = DT2	0.142426926	0.331287293	0.331287293	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+123	motu_linkage_group_85	0.085316673	0.239917301	Metf>= NoDiab = DT2	0.124382771	0.33269355	0.33269355	Bacteria	Firmicutes	?	?	?	?	?
+122	motu_linkage_group_14	0.081516894	0.231187258	Metf = NoDiab = DT2	0.057191823	0.156283576	0.333270299	Bacteria	Bacteroidetes	?	?	?	?	?
+142	motu_linkage_group_652	0.131141899	0.318634898	DT2 = Metf = NoDiab	0.059067058	0.199550006	0.342311767	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+152	motu_linkage_group_310	0.151548851	0.344973042	Metf = NoDiab = DT2	0.83095675	0.173268203	0.346111328	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+155	motu_linkage_group_451	0.157154565	0.349793289	Metf = NoDiab = DT2	0.026980469	0.515500914	0.352956512	Bacteria	Firmicutes	Clostridia	?	?	?	?
+125	Cluster1570	0.086675326	0.239917301	Metf = NoDiab = DT2	0.01134701	0.82144184	0.353101831	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus	Anaerotruncus colihominis
+165	motu_linkage_group_411	0.18061239	0.377448393	Metf = NoDiab = DT2	0.046825484	0.24836555	0.353827314	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+161	Cluster1376	0.169217551	0.363660079	Metf = NoDiab = DT2	0.049418234	0.366459355	0.366459355	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus vestibularis
+56	Cluster1281	0.012644205	0.077545973	Metf > NoDiab = DT2	0.023938885	0.341526881	0.372852229	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Holdemania	Holdemania filiformis
+138	motu_linkage_group_140	0.119746005	0.300232736	Metf = NoDiab = DT2	0.093245447	0.378628876	0.378628876	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+140	Cluster817	0.124861157	0.30858543	DT2 = Metf = NoDiab	0.029418602	0.800845165	0.401740748	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Eggerthella	Eggerthella lenta
+106	Cluster1628	0.06273361	0.201703059	DT2 = NoDiab>= Metf	0.810262037	0.407033276	0.407033276	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Butyrivibrio	Butyrivibrio crossotus
+3	motu_linkage_group_712	6.86E-12	7.92E-10	NoDiab = DT2>>>Metf	0.109897714	5.95E-05	0.407548826	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	?	?
+130	motu_linkage_group_613	0.10109788	0.269075895	DT2 = Metf = NoDiab	0.26247424	0.143507535	0.422578064	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	?	Eubacterium biforme
+80	motu_linkage_group_142	0.030522804	0.132011127	Metf > NoDiab = DT2	0.188267769	0.428775442	0.428775442	Bacteria	Firmicutes	?	?	?	?	?
+33	motu_linkage_group_210	0.003263521	0.033196062	Metf>> NoDiab = DT2	0.112359144	0.078827226	0.429298758	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus	?
+117	Cluster1270	0.072920804	0.215646139	DT2 = NoDiab>= Metf	0.016696443	0.438434835	0.438434835	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	?	Clostridium spiroforme
+82	motu_linkage_group_111	0.035836817	0.151213888	Metf > NoDiab = DT2	0.039017211	0.639043008	0.44070111	Bacteria	?	?	?	?	?	?
+124	motu_linkage_group_49	0.086450206	0.239917301	Metf = NoDiab = DT2	0.095187292	0.175878281	0.445153402	Bacteria	Firmicutes	?	?	?	?	?
+32	motu_linkage_group_404	0.002659961	0.028760826	DT2 = NoDiab>> Metf	0.107707553	0.080357519	0.456051017	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+111	motu_linkage_group_452	0.066369054	0.206083786	Metf>= NoDiab = DT2	0.055499159	0.159147665	0.458135155	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+81	motu_linkage_group_103	0.032015848	0.136759054	NoDiab = DT2 = Metf	0.762626718	0.460202139	0.460202139	Bacteria	Firmicutes	Clostridia	?	?	?	?
+134	motu_linkage_group_240	0.114700785	0.296167699	Metf = NoDiab = DT2	0.100934826	0.476454624	0.476454624	Bacteria	Firmicutes	Clostridia	?	?	?	?
+35	motu_linkage_group_600	0.003458888	0.033196062	DT2 > Metf>> NoDiab	0.068899661	0.04016784	0.48518191	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+83	motu_linkage_group_57	0.037871612	0.156275305	Metf > NoDiab = DT2	0.064934178	0.027321852	0.497105602	Bacteria	Firmicutes	?	?	?	?	?
+104	Cluster968	0.057058979	0.189830835	Metf>= NoDiab = DT2	0.051872416	0.086165608	0.501490276	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium bifidum
+158	motu_linkage_group_124	0.160753723	0.352030304	Metf = NoDiab = DT2	0.068378695	0.193602434	0.503447556	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium siraeum
+26	motu_linkage_group_308	0.001245882	0.016579811	DT2 = NoDiab>>>Metf	0.574125817	0.098794621	0.509096421	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus eutactus
+49	motu_linkage_group_120	0.008080926	0.057061234	DT2 = NoDiab>> Metf	0.30168334	0.17425778	0.524074026	Bacteria	Firmicutes	?	?	?	?	?
+162	Cluster1100	0.172527858	0.368485425	Metf = NoDiab = DT2	4.176844121	0.527533437	0.527533437	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides uniformis
+63	motu_linkage_group_205	0.015182939	0.083335131	DT2 = NoDiab > Metf	0.180460358	0.260892236	0.530400264	Bacteria	Firmicutes	Clostridia	?	?	?	?
+72	motu_linkage_group_136	0.022983405	0.109901916	DT2 = NoDiab > Metf	0.096711535	0.048407737	0.588421699	Bacteria	Firmicutes	?	?	?	?	?
+25	Cluster1609	0.000806622	0.011163653	NoDiab = DT2 > Metf	0.189660865	0.041706809	0.592692742	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus lactaris
+151	motu_linkage_group_568	0.15039771	0.344619918	DT2 = NoDiab = Metf	0.011620176	0.447547069	0.592812	Bacteria	?	?	?	?	?	?
+113	motu_linkage_group_562	0.06730482	0.206083786	DT2 = NoDiab>= Metf	0.01529006	0.396497134	0.596786965	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+100	motu_linkage_group_301	0.052243901	0.180763898	Metf > NoDiab = DT2	0.160652271	0.597095492	0.597095492	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+119	motu_linkage_group_164	0.077087403	0.224136482	Metf>= NoDiab = DT2	0.293437103	0.601820894	0.601820894	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+47	motu_linkage_group_456	0.006652324	0.048972424	Metf>> NoDiab = DT2	0.201647909	0.653921856	0.653921856	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	?
+154	Cluster1594	0.155476635	0.349317634	Metf = NoDiab = DT2	0.104395909	0.277181505	0.676773778	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus catus
+129	motu_linkage_group_510	0.09922438	0.26613671	NoDiab = Metf = DT2	0.146802934	0.320005309	0.679406162	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii
+131	Cluster1627	0.104350967	0.275614004	NoDiab = Metf = DT2	1.217653968	0.683830386	0.683830386	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium eligens
+132	motu_linkage_group_135	0.105704382	0.277073606	NoDiab>= Metf = DT2	0.500934358	0.719328185	0.719328185	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+71	motu_linkage_group_407	0.020969973	0.1021917	NoDiab > Metf = DT2	0.154353918	0.203674844	0.720779779	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii
+68	motu_linkage_group_498	0.018729975	0.09530252	Metf > NoDiab = DT2	0.066004582	0.096592693	0.723062007	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+133	motu_linkage_group_317	0.106544809	0.277176721	DT2 = NoDiab>= Metf	0.075503277	0.577061163	0.73103104	Bacteria	Firmicutes	?	?	?	?	?
+97	motu_linkage_group_217	0.050026037	0.177327082	Metf > NoDiab = DT2	0.164333199	0.226220814	0.735024314	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+115	Cluster1267	0.069749513	0.209855057	Metf>= NoDiab = DT2	0.077390764	0.201542789	0.747481658	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Megasphaera	Megasphaera elsdenii
+64	motu_linkage_group_491	0.015414591	0.083335131	Metf > NoDiab = DT2	0.034789778	0.084026471	0.764279567	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+85	motu_linkage_group_252	0.039275183	0.156750557	DT2 = Metf > NoDiab	0.045373372	0.40139557	0.772369994	Bacteria	Firmicutes	?	?	?	?	?
+43	Cluster1261	0.006257461	0.048964783	NoDiab = DT2 = Metf	0.074597152	0.108540981	0.773038327	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella	Veillonella parvula
+141	Cluster1095	0.128050787	0.314223916	Metf = NoDiab = DT2	0.166681945	0.337570859	0.773250253	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides finegoldii
+1	Cluster390	1.11E-16	3.84E-14	Metf>>>NoDiab = DT2	1.073152498	0.000217694	0.789818559	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia	Escherichia coli
+156	Cluster1092	0.157710269	0.349793289	Metf = NoDiab = DT2	0.933068796	0.313902096	0.79845536	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides thetaiotaomicron
+128	Cluster1605	0.097598552	0.263821086	NoDiab>= Metf = DT2	0.39101421	0.59044621	0.800967965	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea longicatena
+150	motu_linkage_group_342	0.147495573	0.340223122	Metf = NoDiab = DT2	0.042511598	0.81268779	0.804509955	Bacteria	Firmicutes	?	?	?	?	?
+66	motu_linkage_group_573	0.017902403	0.093851989	NoDiab > Metf = DT2	0.137905965	0.218204161	0.815559237	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+145	motu_linkage_group_621	0.134660232	0.320903059	DT2 = NoDiab = Metf	0.182212902	0.173294857	0.825887436	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+34	Cluster1608	0.003309642	0.033196062	Metf>> NoDiab = DT2	0.292832099	0.049376008	0.853042905	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	[Ruminococcus] torques
+13	motu_linkage_group_334	5.42E-05	0.001442664	DT2 = NoDiab>>>Metf	0.085145371	0.051906597	0.895847209	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+148	Cluster1297	0.141611346	0.331064363	Metf = NoDiab = DT2	0.008935796	0.295605783	0.904428749	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sanguinis
+62	Cluster814	0.014644298	0.081724633	Metf>> NoDiab = DT2	0.264494255	0.944410365	0.944410365	Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella aerofaciens
+166	Cluster1301	0.181087957	0.377448393	Metf = NoDiab = DT2	0.002521654	0.422136102	0.967880064	Bacteria	Firmicutes	Bacilli	Bacillales	?	Gemella	Gemella sanguinis
+120	Cluster1597	0.079331673	0.228739657	Metf>= NoDiab = DT2	0.368081191	0.082542053	0.992730487	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium hallii
+170	motu_linkage_group_258	0.203823601	0.412724688	NA	0.664816996			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	?
+171	Cluster399	0.203976652	0.412724688	NA	0.190442228			Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella variicola_pneumoniae
+172	Cluster1593	0.210075153	0.422593041	NA	0.345189242			Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	unnamed Clostridium sp. L2-50
+173	motu_linkage_group_24	0.213656155	0.426120604	NA	0.142170498			Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Dialister	Dialister invisus
+174	Cluster1262	0.214291864	0.426120604	NA	0.025230514			Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella	Veillonella dispar
+175	motu_linkage_group_366	0.215823256	0.426157159	NA	0.222843743			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	?
+176	Cluster1573	0.216773584	0.426157159	NA	0.051163184			Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium leptum
+177	Cluster469	0.220090553	0.430233511	NA	0.144685422			Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	Sutterella wadsworthensis
+178	motu_linkage_group_379	0.221683148	0.430912186	NA	0.404385549			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+179	Cluster1579	0.226568141	0.437947355	NA	0.023384442			Bacteria	Firmicutes	Clostridia	Clostridiales	?	Pseudoflavonifractor	Pseudoflavonifractor capillosus
+180	Cluster1377	0.233635843	0.449100009	NA	0.188408753			Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius
+181	motu_linkage_group_225	0.240331154	0.458265663	NA	0.567827118			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+182	motu_linkage_group_297	0.241053037	0.458265663	NA	0.31323173			Bacteria	Bacteroidetes	?	?	?	?	?
+183	motu_linkage_group_415	0.248383934	0.469622083	NA	0.170488843			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+184	motu_linkage_group_25	0.250175841	0.470439354	NA	0.100376414			Bacteria	?	?	?	?	?	?
+185	Cluster1630	0.252578656	0.47172173	NA	2.434950042			Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium rectale
+186	motu_linkage_group_192	0.253584514	0.47172173	NA	0.239968313			Bacteria	?	?	?	?	?	?
+187	motu_linkage_group_101	0.260246315	0.481525267	NA	0.070993705			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+188	motu_linkage_group_517	0.274376969	0.50460621	NA	0.128594155			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+189	motu_linkage_group_32	0.275637496	0.50460621	NA	0.062321756			Bacteria	Bacteroidetes	?	?	?	?	?
+190	motu_linkage_group_585	0.281037815	0.507117201	NA	0.146455221			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+191	Cluster1618	0.281200594	0.507117201	NA	0.243219905			Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	[Ruminococcus] obeum
+192	motu_linkage_group_265	0.281406077	0.507117201	NA	0.334853965			Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga sp. oral taxon 329
+193	motu_linkage_group_6	0.287659834	0.513760061	NA	0.038166306			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Odoribacter	Odoribacter splanchnicus
+194	motu_linkage_group_281	0.288062	0.513760061	NA	1.018605193			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+195	motu_linkage_group_385	0.290229031	0.514850525	NA	0.112800731			Bacteria	Firmicutes	?	?	?	?	?
+196	Cluster1620	0.29164943	0.514850525	NA	1.111951762			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	unnamed Ruminococcus sp. 5_1_39BFAA
+197	motu_linkage_group_7	0.30364845	0.531416867	NA	0.194830833			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella copri
+198	motu_linkage_group_254	0.305012314	0.531416867	NA	0.265729111			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+199	motu_linkage_group_174	0.309087435	0.531416867	NA	0.05267414			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	?
+200	Cluster1090	0.310328324	0.531416867	NA	0.603490234			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis
+201	motu_linkage_group_837	0.311209186	0.531416867	NA	0.035283652			Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella	?
+202	motu_linkage_group_460	0.311279995	0.531416867	NA	0.091235786			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+203	motu_linkage_group_362	0.31178504	0.531416867	NA	0.310866936			Bacteria	Firmicutes	Clostridia	?	?	?	?
+204	motu_linkage_group_268	0.314090831	0.531426499	NA	0.192377859			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+205	Cluster1574	0.315521391	0.531426499	NA	0.980314125			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii
+206	motu_linkage_group_430	0.316398436	0.531426499	NA	0.316431726			Bacteria	Firmicutes	Clostridia	?	?	?	?
+207	Cluster1629	0.332608454	0.554268734	NA	0.173617743			Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium ventriosum
+208	motu_linkage_group_520	0.333202014	0.554268734	NA	0.199891052			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+209	motu_linkage_group_253	0.335150514	0.554842478	NA	0.14395324			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+210	motu_linkage_group_551	0.361762985	0.594690579	NA	0.303954606			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+211	motu_linkage_group_496	0.363741684	0.594690579	NA	0.095636471			Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	?
+212	Cluster1259	0.366571498	0.594690579	NA	0.839630597			Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Dialister	Dialister invisus
+213	motu_linkage_group_47	0.367135667	0.594690579	NA	0.056419261			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+214	motu_linkage_group_485	0.367983732	0.594690579	NA	0.134653855			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+215	motu_linkage_group_324	0.369533163	0.594690579	NA	0.020484187			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Odoribacter	Odoribacter splanchnicus
+216	motu_linkage_group_51	0.374151638	0.599335494	NA	0.039418418			Bacteria	Firmicutes	?	?	?	?	?
+217	Cluster1052	0.382066006	0.608413786	NA	0.338633771			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes shahii
+218	Cluster1580	0.383495545	0.608413786	NA	0.027069166			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	unnamed Ruminococcaceae bacterium D16
+219	Cluster1107	0.385094275	0.608413786	NA	0.591608626			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides coprocola
+220	Cluster1097	0.389908302	0.613219421	NA	0.490812886			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides eggerthii
+221	motu_linkage_group_588	0.395680849	0.618059641	NA	0.340852578			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	?
+222	motu_linkage_group_678	0.396558498	0.618059641	NA	0.031885726			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+223	motu_linkage_group_195	0.400511345	0.62142119	NA	0.039924371			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+224	Cluster92	0.433798775	0.670064179	NA	0.214970068			Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	Methanobrevibacter smithii
+225	motu_linkage_group_191	0.446483385	0.686195914	NA	0.158488339			Bacteria	?	?	?	?	?	?
+226	motu_linkage_group_701	0.450239266	0.686195914	NA	0.020956835			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+227	motu_linkage_group_507	0.451248712	0.686195914	NA	0.057320727			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+228	Cluster1398	0.452175342	0.686195914	NA	0.003739771			Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus gordonii
+229	motu_linkage_group_398	0.458705098	0.693065345	NA	0.050464479			Bacteria	Firmicutes	?	?	?	?	?
+230	motu_linkage_group_320	0.472627956	0.710996837	NA	0.19168088			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+231	motu_linkage_group_176	0.483488297	0.71576868	NA	0.472834995			Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	?	?
+232	motu_linkage_group_349	0.485780104	0.71576868	NA	0.268440238			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+233	Cluster1096	0.490953582	0.71576868	NA	0.56977017			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caccae
+234	Cluster1569	0.491680494	0.71576868	NA	1.762002598			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus bromii
+235	Cluster1054	0.491865722	0.71576868	NA	1.397424767			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes putredinis
+236	motu_linkage_group_63	0.492585406	0.71576868	NA	0.278174998			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+237	Cluster1633	0.494499077	0.71576868	NA	0.237649593			Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia hominis
+238	motu_linkage_group_282	0.496031546	0.71576868	NA	0.251550525			Bacteria	Firmicutes	?	?	?	?	?
+239	Cluster1622	0.496686795	0.71576868	NA	0.005827258			Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia hydrogenotrophica
+240	Cluster1421	0.49701385	0.71576868	NA	0.041326785			Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus parasanguinis
+241	motu_linkage_group_651	0.498555641	0.71576868	NA	0.075730541			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+242	motu_linkage_group_439	0.504026432	0.720632833	NA	0.081304995			Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+243	Cluster1606	0.510679378	0.727140184	NA	0.010199816			Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	Clostridium scindens
+244	motu_linkage_group_636	0.51563468	0.729728347	NA	0.063704326			Bacteria	Firmicutes	Clostridia	Clostridiales	Oscillospiraceae	?	?
+245	motu_linkage_group_293	0.51734209	0.729728347	NA	0.095552088			Bacteria	Firmicutes	?	?	?	?	?
+246	motu_linkage_group_179	0.518824201	0.729728347	NA	0.026430685			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+247	Cluster1612	0.523811271	0.733759918	NA	0.013038811			Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	unnamed Lachnospiraceae bacterium 1_4_56FAA
+248	motu_linkage_group_284	0.531007757	0.740841468	NA	0.608773058			Bacteria	Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	?	?
+249	Cluster972	0.538316938	0.748022733	NA	0.377615607			Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium adolescentis
+250	motu_linkage_group_228	0.542549871	0.750889021	NA	0.100904973			Bacteria	?	?	?	?	?	?
+251	motu_linkage_group_448	0.552234464	0.759668142	NA	0.061074993			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+252	motu_linkage_group_72	0.55649674	0.759668142	NA	0.111617298			Bacteria	?	?	?	?	?	?
+253	motu_linkage_group_288	0.557315913	0.759668142	NA	0.410480969			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+254	motu_linkage_group_703	0.557675457	0.759668142	NA	0.017885225			Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	?	?
+255	motu_linkage_group_234	0.569699127	0.768307561	NA	0.083556244			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+256	motu_linkage_group_168	0.570205884	0.768307561	NA	0.644183198			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella copri
+257	motu_linkage_group_509	0.570679315	0.768307561	NA	0.058640311			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+258	motu_linkage_group_458	0.57740301	0.774346672	NA	0.041070185			Bacteria	Firmicutes	?	?	?	?	?
+259	motu_linkage_group_474	0.583155022	0.779041072	NA	0.086369701			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+260	motu_linkage_group_502	0.58923154	0.781245844	NA	0.248006095			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+261	motu_linkage_group_224	0.589321287	0.781245844	NA	0.206519517			Bacteria	Firmicutes	Clostridia	?	?	?	?
+262	motu_linkage_group_182	0.591619722	0.781299328	NA	0.115026095			Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Dialister	Dialister invisus
+263	Cluster1614	0.597591297	0.786184748	NA	0.02283138			Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	unclassified Lachnospiraceae
+264	motu_linkage_group_592	0.613281559	0.803770529	NA	0.074893269			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+265	motu_linkage_group_634	0.618917533	0.8080961	NA	0.010133552			Bacteria	?	?	?	?	?	?
+266	motu_linkage_group_346	0.624918757	0.812864247	NA	0.274923233			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+267	motu_linkage_group_548	0.630641005	0.81723516	NA	0.05879717			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+268	Cluster1086	0.633911211	0.818407757	NA	0.270656111			Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	unnamed Capnocytophaga sp. oral taxon 329
+269	motu_linkage_group_525	0.640167337	0.823412262	NA	0.263524282			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+270	Cluster1094	0.644288924	0.825644325	NA	0.903748554			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides ovatus
+271	motu_linkage_group_230	0.655427777	0.835555801	NA	0.331856557			Bacteria	Bacteroidetes	?	?	?	?	?
+272	motu_linkage_group_218	0.656880105	0.835555801	NA	0.106456821			Bacteria	Firmicutes	?	?	?	?	?
+273	Cluster1397	0.659268017	0.835555801	NA	0.002567038			Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sanguinis
+274	motu_linkage_group_644	0.666405542	0.841519407	NA	0.106969159			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+275	Cluster1564	0.677152038	0.849718321	NA	0.595411038			Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium siraeum
+276	Cluster1275	0.678705839	0.849718321	NA	0.18851833			Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	?	Eubacterium biforme
+277	motu_linkage_group_495	0.680265823	0.849718321	NA	0.039847581			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+278	motu_linkage_group_431	0.690078685	0.857255377	NA	0.104357082			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Odoribacter	Odoribacter splanchnicus
+279	Cluster1617	0.691255059	0.857255377	NA	0.021644323			Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	Blautia hansenii
+280	motu_linkage_group_243	0.697369423	0.861749359	NA	0.247344145			Bacteria	Firmicutes	Clostridia	?	?	?	?
+281	Cluster1093	0.70557687	0.868788601	NA	1.048040189			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides xylanisolvens
+282	Cluster1099	0.710357628	0.871033239	NA	0.116144472			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides clarus
+283	motu_linkage_group_212	0.712434701	0.871033239	NA	0.261493568			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+284	Cluster1466	0.716036492	0.872354317	NA	0.066874814			Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus ruminis
+285	Cluster1400	0.721142976	0.875492876	NA	0.00379154			Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pneumoniae
+286	motu_linkage_group_376	0.729251683	0.882241547	NA	0.220497585			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+287	motu_linkage_group_158	0.734849444	0.885664219	NA	0.828418703			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+288	Cluster751	0.73755761	0.885664219	NA	0.057274998			Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio piger
+289	Cluster1108	0.739759998	0.885664219	NA	0.066959715			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides salanitronis
+290	Cluster1601	0.744271006	0.887992304	NA	0.013694893			Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium saccharolyticum
+291	motu_linkage_group_38	0.749251533	0.890862648	NA	0.062207002			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+292	motu_linkage_group_383	0.759854688	0.898555512	NA	0.235074272			Bacteria	Firmicutes	Clostridia	?	?	?	?
+293	Cluster970	0.76181245	0.898555512	NA	0.295495254			Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium longum
+294	motu_linkage_group_289	0.764990256	0.898555512	NA	0.102327922			Bacteria	?	?	?	?	?	?
+295	motu_linkage_group_357	0.766109468	0.898555512	NA	0.101991943			Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Akkermansia	Akkermansia muciniphila
+296	Cluster973	0.773643104	0.901611327	NA	0.272368448			Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium catenulatum-Bifidobacterium pseudocatenulatum complex
+297	motu_linkage_group_3	0.773926486	0.901611327	NA	0.276375345			Bacteria	Firmicutes	?	?	?	?	?
+298	motu_linkage_group_341	0.784054679	0.905227771	NA	0.09746615			Bacteria	Firmicutes	Clostridia	?	?	?	?
+299	Cluster1415	0.785084936	0.905227771	NA	0.005964273			Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus infantis
+300	motu_linkage_group_327	0.787242536	0.905227771	NA	0.218066354			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+301	motu_linkage_group_386	0.788353767	0.905227771	NA	0.090462362			Bacteria	Firmicutes	?	?	?	?	?
+302	Cluster1576	0.79060341	0.905227771	NA	0.845616439			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii
+303	motu_linkage_group_273	0.792728366	0.905227771	NA	0.110225065			Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	Sutterella wadsworthensis
+304	motu_linkage_group_90	0.800811078	0.911449451	NA	0.040345423			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+305	motu_linkage_group_226	0.805805849	0.912884131	NA	0.037372864			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+306	motu_linkage_group_552	0.807514204	0.912884131	NA	0.223341413			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+307	motu_linkage_group_122	0.809986787	0.912884131	NA	0.129878019			Bacteria	Firmicutes	Clostridia	?	?	?	?
+308	Cluster1103	0.819742092	0.920879104	NA	0.302125445			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides intestinalis
+309	Cluster1115	0.831116086	0.929723475	NA	0.274556883			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Odoribacter	Odoribacter splanchnicus
+310	motu_linkage_group_497	0.835854916	0.929723475	NA	0.040615828			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+311	motu_linkage_group_277	0.837153105	0.929723475	NA	0.171102129			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+312	motu_linkage_group_87	0.839248582	0.929723475	NA	0.143186373			Bacteria	Firmicutes	?	?	?	?	?
+313	Cluster1053	0.841050427	0.929723475	NA	0.219977482			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	unnamed Alistipes sp. HGB5
+314	motu_linkage_group_68	0.851438136	0.936629457	NA	0.047126778			Bacteria	Firmicutes	Clostridia	?	?	?	?
+315	motu_linkage_group_248	0.852711789	0.936629457	NA	0.058675686			Bacteria	Firmicutes	?	?	?	?	?
+316	motu_linkage_group_471	0.86047716	0.940950333	NA	0.107344827			Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	?
+317	motu_linkage_group_306	0.864075089	0.940950333	NA	0.533795924			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+318	motu_linkage_group_344	0.864804063	0.940950333	NA	0.095244755			Bacteria	Firmicutes	?	?	?	?	?
+319	Cluster468	0.86956527	0.943164839	NA	0.108926879			Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	Parasutterella excrementihominis
+320	motu_linkage_group_536	0.880140198	0.951651589	NA	0.747821731			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+321	motu_linkage_group_45	0.890717591	0.960088119	NA	0.028979431			Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	?
+322	motu_linkage_group_508	0.894498765	0.961169481	NA	0.12498881			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	?
+323	motu_linkage_group_37	0.902571568	0.964237273	NA	0.118070785			Bacteria	Bacteroidetes	?	?	?	?	?
+324	Cluster1375	0.902927389	0.964237273	NA	0.124454902			Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus thermophilus
+325	motu_linkage_group_307	0.906277055	0.964836495	NA	0.211397164			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+326	Cluster1091	0.913517238	0.967789393	NA	0.149101983			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis
+327	Cluster1276	0.915435618	0.967789393	NA	0.018914214			Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	?	Eubacterium cylindroides
+328	motu_linkage_group_672	0.918422826	0.967789393	NA	0.075520878			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+329	Cluster1089	0.921679668	0.967789393	NA	0.532855459			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides merdae
+330	Cluster1358	0.923036126	0.967789393	NA	0.002980842			Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	Granulicatella adiacens
+331	motu_linkage_group_638	0.928203795	0.970267411	NA	0.267507539			Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	?
+332	Cluster971	0.933687173	0.973059524	NA	0.007749948			Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium dentium
+333	motu_linkage_group_251	0.936850606	0.973424353	NA	0.177805314			Bacteria	Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	?	?
+334	motu_linkage_group_28	0.941741534	0.975576559	NA	0.124203651			Bacteria	Firmicutes	?	?	?	?	?
+335	motu_linkage_group_389	0.947592952	0.975878881	NA	0.142726839			Bacteria	?	?	?	?	?	?
+336	motu_linkage_group_54	0.947674289	0.975878881	NA	0.119036271			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+337	Cluster1104	0.953071049	0.976288224	NA	6.149964332			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides dorei_vulgatus
+338	motu_linkage_group_118	0.953715086	0.976288224	NA	0.083991791			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+339	motu_linkage_group_463	0.961833566	0.978897558	NA	0.024149756			Bacteria	Firmicutes	?	?	?	?	?
+340	motu_linkage_group_575	0.962606848	0.978897558	NA	0.020209122			Bacteria	Actinobacteria	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Collinsella	?
+341	Cluster1098	0.96475164	0.978897558	NA	1.678630823			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides stercoris
+342	Cluster1659	0.972511662	0.980629262	NA	0.270378458			Bacteria	Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Phascolarctobacterium	Phascolarctobacterium succinatutens
+343	Cluster1619	0.97507154	0.980629262	NA	0.066035988			Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	[Ruminococcus] obeum
+344	Cluster1081	0.975963859	0.980629262	NA	6.141224739			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella copri
+345	motu_linkage_group_414	0.977795073	0.980629262	NA	0.057217189			Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+346	motu_linkage_group_316	0.981873756	0.981873756	NA	0.668340202			Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
