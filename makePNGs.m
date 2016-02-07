@@ -151,7 +151,7 @@ for z1 = 13:13%length(complexes)
                     for tempIter=1:length(downStrictGenera)
                         labels{end+1}=['Met/Ber Down ' str];
                     end
-                    makeBarGut(xvals,yvals,titleString,outputDir3,ylabelString,0,0,xlabels,labels,specialVals,{});
+                    makeBar(xvals,yvals,titleString,outputDir3,'ylabelString',ylabelString,'xlabels',xlabels,'labels',labels,'specialVals',specialVals);
 
                     xvals = 1:100; yvals1 = yvals; yvals = squeeze(scoresMatrixOther(z1,z,:)); yvals = yvals(yvals>=0);
                     bins = linspace(min(yvals),max(yvals),100);
@@ -176,7 +176,7 @@ for z1 = 13:13%length(complexes)
                     %yvalsHist(1)=0;
                     %yvalsHist(2)=yvalsHist(1);
                     %xvals = xvals(2:end); yvalsHist = yvalsHist(2:end);
-                    makeBarGut(xvals,yvalsHist,titleString,outputDir3,'Frequency',0,0,{},{},{},yvals1Hist);
+                    makeBar(xvals,yvalsHist,titleString,outputDir3,'ylabelString','Frequency','indLines',yvals1Hist);
                 end
             end
             end
@@ -218,7 +218,7 @@ for i=0:9
         %xvals
         %yvals
     end
-    makeBarGut(xvals,yvals,titleString,outputDir1,ylabelString,0,1,{},{},{},{},xlabelString);
+    makeBar(xvals,yvals,titleString,outputDir1,'ylabelString',ylabelString,'isScatter',1,'xlabelString',xlabelString);
 end
 
 upStrictGeneraAll = unique([ZhangZhaoUpStrictGenera ForslundHildebrandUpStrictGenera]);
@@ -232,7 +232,7 @@ for i=1:length(complexes)
     xlabels{i} = complexes{i}; [h p]=ttest2(pctsUp,pctsDown);
     labels{i} = ['ttest p-val: ' num2str(p)];
 end
-makeBarGut(xvals,yvals,titleString,outputDir1,'Average Coverage',0,0,xlabels,labels,{},{});
+makeBar(xvals,yvals,titleString,outputDir1,'ylabelString','Average Coverage','xlabels',xlabels,'labels',labels,'xlabelsFontSize',25);
 
 if 1
 generaMatrix = {'ZhangZhaoUpGenera' 'ZhangZhaoDownGenera' 'ZhangZhaoUpStrictGenera' 'ZhangZhaoDownStrictGenera'; 'ForslundHildebrandUpGenera' 'ForslundHildebrandDownGenera' 'ForslundHildebrandUpStrictGenera' 'ForslundHildebrandDownStrictGenera'};
@@ -292,18 +292,18 @@ for studyIdx = 1:1
             
             titleString = genera{k}; ylabelString = 'e-Value';            
             specialVals = containers.Map([-2 -1],{'No reference sequences to BLAST against','No good BLAST matches'});            
-            makeBarGut(xvals,yvals,titleString,outputDirTemp,ylabelString,0,0,xlabels,labels,specialVals,{});
+            makeBar(xvals,yvals,titleString,outputDirTemp,'ylabelString',ylabelString,'xlabels',xlabels,'labels',labels,'specialVals',specialVals);
             midpoint = floor(length(xvals)/2);
             xvals1 = xvals(1:midpoint); yvals1 = yvals(1:midpoint);
             titleString1 = [titleString '_1'];
             xlabels1 = xlabels(1:midpoint); labels1 = labels(1:midpoint);
-            makeBarGut(xvals1,yvals1,titleString1,outputDirTemp,ylabelString,0,0,xlabels1,labels1,specialVals,{});
+            makeBar(xvals1,yvals1,titleString1,outputDirTemp,'ylabelString',ylabelString,'xlabels',xlabels1,'labels',labels1,'specialVals',specialVals);
             xvals2 = xvals(midpoint+1:end); yvals2 = yvals(midpoint+1:end);
             titleString2 = [titleString '_2'];
             xlabels2 = xlabels(midpoint+1:end); labels2 = labels(midpoint+1:end);
-            makeBarGut(xvals2,yvals2,titleString2,outputDirTemp,ylabelString,0,0,xlabels2,labels2,specialVals,{});
+            makeBar(xvals2,yvals2,titleString2,outputDirTemp,'ylabelString',ylabelString,'xlabels',xlabels2,'labels',labels2,'specialVals',specialVals);
             
-            makeBarGut(1:length(annotPers),[blastPers annotPers],[titleString 'Comp'],outputDirTemp,'Percentage',0,0,matchingComplexes,{},specialVals,{});
+            makeBar(1:length(annotPers),[blastPers annotPers],[titleString 'Comp'],outputDirTemp,'ylabelString','Percentage','xlabels',matchingComplexes,'specialVals',specialVals);
         end
     end
 end
@@ -339,6 +339,6 @@ for j=1:2
         end
     end
     ylabelString = 'e-Value';
-    %makeBarGut(xvals,yvals,titleString,xlabels,ylabelString,outputDir1,labels);
+    %makeBar(xvals,yvals,titleString,outputDir1,'xlabels',xlabels,'ylabelString',ylabelString,'labels',labels);
 end
 end
