@@ -59,5 +59,32 @@ for genus in ZhangZhaoGenera+ForslundHildebrandGenera:
     descendantNames = [str(name2taxid[genus][0])]
     for d in descendants:
         descendantNames.append(str(d))
-    print(genus+"\t"+",".join(descendantNames),file=fh)
+    fh.write(genus+"\t"+",".join(descendantNames))#,file=fh)
 fh.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

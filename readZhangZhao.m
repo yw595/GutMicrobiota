@@ -10,7 +10,7 @@ rawTable = [dataFields{:}];
 rawTable = rawTable(1:end-2,:);
 taxonomies = rawTable(1:end,3);
 % strsplit on ; always leads to space at end if no genus, so flag on this
-hasGeneraTemp = cellfun(@(x) strsplit(x,';'), taxonomies, 'UniformOutput',0);
+hasGeneraTemp = cellfun(@(x) strsplitYiping(x,';'), taxonomies, 'UniformOutput',0);
 hasGenera = cellfun(@(x) ~strcmp(' ',x(5)), hasGeneraTemp);
 % UniformOutput==1 gives one cell array, else cell array of 1x1 cell
 % arrays???, and fail???

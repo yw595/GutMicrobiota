@@ -54,7 +54,7 @@ for z1 = 1:length(complexes)
             % if FI ~= -1
             %     line = fgetl(FI);
             %     if line ~= -1
-            %         words = strsplit(line,'\t');
+            %         words = strsplitYiping(line,'\t');
             %         bigScoresOther(z1,z,i) = str2num(words{1});
             %     else
             %         bigScoresOther(z1,z,i) = -1;

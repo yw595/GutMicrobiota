@@ -20,8 +20,8 @@ FI = fopen([outputDir filesep 'writeETEFiles' filesep 'allDescendants.txt']);
 FI1 = fopen(namesDmpFind,'w');
 line = fgetl(FI);
 while line~=-1
-    words = strsplit(line,'\t');
-    words1 = strsplit(words{2},',');
+    words = strsplitYiping(line,'\t');
+    words1 = strsplitYiping(words{2},',');
     for i=1:length(words1)
         fprintf(FI1,'%s\t%s\n',words1{i},words{1});
     end
@@ -33,7 +33,7 @@ FI = fopen(namesDmpFind);
 line = fgetl(FI);
 namesToTaxids = containers.Map;
 while line ~= -1
-    words = strsplit(line,'\t');
+    words = strsplitYiping(line,'\t');
     namesToTaxids(words{2}) = words{1};
     line = fgetl(FI);
 end

@@ -9,10 +9,10 @@ blastOcc=0;
 if FI ~= -1
     line = fgetl(FI);
     if line ~= -1
-        words = strsplit(line,'\t');
+        words = strsplitYiping(line,'\t');
         regExpString = '(putative|hypothetical|uncharacterized|predicted)';
         while line ~= -1 & ~isempty(regexp(words{9}, regExpString))
-            words = strsplit(line,'\t');
+            words = strsplitYiping(line,'\t');
             line = fgetl(FI);
             if dispLines
                 disp(line)

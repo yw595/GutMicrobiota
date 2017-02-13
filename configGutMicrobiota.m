@@ -42,7 +42,7 @@ if ~exist('cddIDs','var')
         complexCdds = {};
         line = fgetl(FI);
         while line~=-1
-            words = strsplit(line,'\t');
+            words = strsplitYiping(line,'\t');
             cddGi = words{1};
             cddID = words{2};
             cddIDs{end+1} = cddID;

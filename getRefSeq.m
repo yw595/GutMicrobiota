@@ -5,8 +5,8 @@ FI = fopen('/mnt/extra/blast/refseqIDsToSpecies.txt');
 refseqIDsToSpecies = containers.Map;
 line = fgetl(FI);
 while line~=-1
-    words = strsplit(line,'\t');
-    words1 = strsplit(words{2},' ');
+    words = strsplitYiping(line,'\t');
+    words1 = strsplitYiping(words{2},' ');
     refseqIDsToSpecies(words{1}) = [words1{1} ' ' words1{2}];
     line = fgetl(FI);
 end

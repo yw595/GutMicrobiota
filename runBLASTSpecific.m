@@ -11,7 +11,7 @@ closestSpecies = containers.Map;
 FI = fopen([outputDir filesep 'writeETEFiles' filesep 'closestSpecies.txt']);
 line = fgetl(FI);
 while line~=-1
-    words = strsplit(line,'\t');
+    words = strsplitYiping(line,'\t');
     closestSpecies(words{1}) = words{2};
     line = fgetl(FI);
 end
@@ -110,7 +110,7 @@ for z=1:1%length(geneNames)
             line = fgetl(FI);
             namesToTaxids = containers.Map;
             while line ~= -1
-                words = strsplit(line,'\t');
+                words = strsplitYiping(line,'\t');
                 namesToTaxids(words{2}) = words{1};
                 line = fgetl(FI);
             end
@@ -146,7 +146,7 @@ for z=1:1%length(geneNames)
                 if FI ~= -1
                     line = fgetl(FI);
                     if line ~= -1
-                        words = strsplit(line,'\t');
+                        words = strsplitYiping(line,'\t');
                         scores(end+1) = str2num(words{1});
                     else
                         scores(end+1) = -1;
